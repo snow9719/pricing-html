@@ -1,0 +1,21 @@
+a manual for sil's guide project 1
+first step will be makine a  simple navigation bar. consisting of 
+.A logo, a contact us page, an about us page , and a home page and on the corner we will have a log in page and a start free trail button.
+This will be with flexbox divs and links no button for the moment.
+second we will hava a h1 in the top center part of our screen with a subtitle achieved throud paragraph text consisting of how it 
+doesn't require credit cards or any prior commitment and can be canceled at any given moment.
+
+ACT 2
+Act 2 will be the most important cause we will be making a pricing table using flexbox divs and anchor tags too.
+we will be adding small images with logos of our partnered company.
+we will also be adding a footer with copyright and explaning how this is a dummy website.
+
+Act 3 - Make it Responsive the menu and the pricing table should be responsive and the menu can be a drop down and the pricing table be set vertically on a mobile phone.
+ 
+Act 4 - The last act will be filled be styling 
+ ON THE TOP LETS ADD A FAVICON OF OUR LOGO 
+ THE LOGO SHOULD BE CREATED BY US WITH LETS SAY A BLACK AND WHITE THEMED LOGO WOULD BE GREAT
+ THE THEME IS BLUE AND WHITE
+ LETS NOT BE PRISONED WITH OUR KNOWLEDGE INSTEAD LETS BORDEN OUR HORIZON AND LETS GO BEYOND 
+  
+TIME TO COMPLETED 48 HOURS
